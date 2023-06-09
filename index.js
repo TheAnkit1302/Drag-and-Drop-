@@ -39,3 +39,6 @@ for (container of containers) {
         e.target.append(imgBox);
     })
 }
+function refreshPage() {
+    window.location.reload();
+  }
